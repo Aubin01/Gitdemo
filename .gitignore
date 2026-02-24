@@ -1,0 +1,8 @@
+.metadata/
+.DS_Store
+
+# Eclipse / Java
+bin/
+.classpath
+.project
+.settings/
